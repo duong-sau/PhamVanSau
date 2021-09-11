@@ -2,5 +2,5 @@ APPID: 881367504314851339
 KEY: 2c6f5d6a471ac45a3275ede0cb2b73b8f9db1d38f372d682ee1636b59b33da32
 ClientID: 881367504314851339
 s3rct: 6nFu0KXve-O2oq26lGqRHIUkGSbdzPOv
-token: ODgxMzY3NTA0MzE0ODUxMzM5.YSrzdA.W_rdhmpuSjlQvM7OzvPZ-eY7Cds
+token: ODgxMzY3NTA0MzE0ODUxMzM5.YSrzdA.RwA1IiydSg6YnLFm-D8pgVjQI0g
 reURL:https://discord.com/api/oauth2/authorize?client_id=881367504314851339&permissions=154619341920&scope=bot
